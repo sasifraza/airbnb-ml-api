@@ -1,0 +1,23 @@
+# Vitual environment 
+venv/
+
+# Python
+
+__pycache__/
+*.pyc
+
+# MacOS
+
+.DS_Store
+
+# Jupyter 
+
+.ipynb_checkpoints/
+
+# Models 
+
+# models/
+ 
+
+models/
+data/
